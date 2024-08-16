@@ -185,7 +185,7 @@ public class BlockOre extends BlockCore implements IInitializer, IModelRegister 
 		// @formatter:off
 		COPPER(0, "copper"),
 		TIN(1, "tin"),
-		SILVER(2, "silver", 4),
+		SILVER(2, "silver"),
 		LEAD(3, "lead"),
 		ALUMINUM(4, "aluminum"),
 		NICKEL(5, "nickel"),
